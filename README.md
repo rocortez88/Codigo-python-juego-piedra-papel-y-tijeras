@@ -30,3 +30,6 @@ Estructuras Repetitivas: Se emplean bucles while para validar la entrada de dato
 Estructuras Condicionales: Se utilizan sentencias if, elif y else en la función determinar_ganador() para comparar las jugadas y tomar decisiones basadas en el resultado.
 
 Funciones: El código está organizado en funciones, lo que lo hace modular, fácil de leer y reutilizable.
+
+***LINK DEL VIDEO EXPLICATIVO***
+https://drive.google.com/file/d/1DGgI4o290hND-K7WTOHS05Y9Ul-AK0Kr/view?usp=sharing
